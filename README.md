@@ -1,4 +1,4 @@
-# 🌴 Wanderlust Indonesia
+#  Wanderlust Indonesia
 
 > Temukan destinasi liburanmu di Indonesia melalui 20 pertanyaan kepribadian yang seru!
 
@@ -6,19 +6,19 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎯 **20 Pertanyaan** tentang gaya hidup, preferensi, dan kepribadian
-- 🗺️ **50+ Destinasi** seluruh Indonesia — dari Sabang sampai Merauke
-- 🌙 **Dark & Light Mode** dengan animasi transisi halus
-- 📱 **Responsive** — works on mobile & desktop
-- 🎨 **Animasi Premium** — orbs, progress bar glow, slide transitions
-- 🔗 **Klik destinasi** → langsung buka Google Maps
-- 📤 **Share result** via Web Share API / clipboard
+-  **20 Pertanyaan** tentang gaya hidup, preferensi, dan kepribadian
+-  **50+ Destinasi** seluruh Indonesia dari Sabang sampai Merauke
+-  **Dark & Light Mode** dengan animasi transisi halus
+-  **Responsive** works on mobile & desktop
+-  **Animasi Premium** orbs, progress bar glow, slide transitions
+-  **Klik destinasi** → langsung buka Google Maps
+-  **Share result** via Web Share API / clipboard
 
 ---
 
-## 📁 Struktur Project
+##  Struktur Project
 
 ```
 wanderlust-indonesia/
@@ -33,30 +33,7 @@ wanderlust-indonesia/
 
 ---
 
-## 🌐 Deploy ke GitHub Pages
-
-### 1. Buat Repository Baru
-```bash
-git init
-git add .
-git commit -m "🌴 Initial commit — Wanderlust Indonesia"
-git branch -M main
-git remote add origin https://github.com/USERNAME/wanderlust-indonesia.git
-git push -u origin main
-```
-
-### 2. Aktifkan GitHub Pages
-1. Buka repo di GitHub
-2. **Settings** → **Pages**
-3. Source: **Deploy from a branch**
-4. Branch: `main` / `root`
-5. Klik **Save**
-
-URL akan jadi: `https://USERNAME.github.io/wanderlust-indonesia`
-
----
-
-## 🎨 Tech Stack
+##  Tech Stack
 
 - Pure HTML5, CSS3, Vanilla JavaScript (no framework, no build tools!)
 - Google Fonts: Playfair Display, Space Mono, Bricolage Grotesque
@@ -64,7 +41,7 @@ URL akan jadi: `https://USERNAME.github.io/wanderlust-indonesia`
 
 ---
 
-## 📊 Scoring System
+##  Scoring System
 
 Setiap jawaban memberi tag poin. Di akhir quiz, sistem:
 1. Menghitung skor tiap tag dari semua jawaban
@@ -74,7 +51,7 @@ Setiap jawaban memberi tag poin. Di akhir quiz, sistem:
 
 ---
 
-## 🏝️ Destinasi Tersedia
+##  Destinasi Tersedia
 
 | Kategori | Contoh |
 |----------|--------|
@@ -90,8 +67,8 @@ Setiap jawaban memberi tag poin. Di akhir quiz, sistem:
 ## 🙏 Credit
 
 **Agus Satria Adhitama**  
-Wanderlust Indonesia © 2024
+Wanderlust Indonesia © 2026
 
 ---
 
-*"Jangan tanya kenapa harus ke Indonesia — tanya kenapa belum."*
+*"Jangan tanya kenapa harus ke Indonesia, tanya kenapa belum."*

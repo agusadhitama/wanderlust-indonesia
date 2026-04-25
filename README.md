@@ -37,7 +37,7 @@ wanderlust-indonesia/
 
 - Pure HTML5, CSS3, Vanilla JavaScript (no framework, no build tools!)
 - Google Fonts: Playfair Display, Space Mono, Bricolage Grotesque
-- Zero dependencies — langsung buka di browser
+- Zero dependencies, langsung buka di browser
 
 ---
 

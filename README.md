@@ -37,7 +37,7 @@ wanderlust-indonesia/
 
 ##  Tech Stack
 
-- Pure HTML5, CSS3, Vanilla JavaScript (no framework, no build tools!)
+- Pure HTML, CSS, Vanilla JavaScript (no framework, no build tools!)
 - Google Fonts: Playfair Display, Space Mono, Bricolage Grotesque
 - Zero dependencies, langsung buka di browser
 
